@@ -8,3 +8,9 @@ marital status and number of children have an impact on a loan default.
 The bank already has some data on the creditworthiness of customers.
 Our report will be considered fot creating a credit score for a customer potential. 
 A credit score is used to assess the ability of a potential borrower to repay his loan.
+
+
+
+
+The project is done in VS code with Jupyter Notebook extension.
+Attached there is the excel file used for the analysis
