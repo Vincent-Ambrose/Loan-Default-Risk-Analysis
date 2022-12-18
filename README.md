@@ -10,7 +10,7 @@ Description of the project:
 This project aim to prepare a report for the loan division of a bank. The need is to find out if a client's
 marital status, age, number of children, education etc have an impact on a loan default. 
 The bank already has some data on the creditworthiness of customers (see the .csv file in the Repo). 
-This will be considered for creating a credit score for actual and future potential customers. 
+This was considered for creating a credit score for actual and future potential customers. 
 
 The project is done in VS code with Jupyter Notebook extension.
 
