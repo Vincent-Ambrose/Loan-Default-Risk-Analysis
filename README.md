@@ -2,6 +2,9 @@
 A quick analysis of a debtor's creditworthiness
 
 
+![image](https://user-images.githubusercontent.com/118930159/208306883-131d0e10-003f-4402-9a05-df046d2de885.png)
+
+
 Description of the project:
 
 Our project involves preparing a report for the loan division of a bank. We will need to find out if a client's
