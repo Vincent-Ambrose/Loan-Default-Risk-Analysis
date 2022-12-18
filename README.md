@@ -14,4 +14,4 @@ A credit score is used to assess the ability of a potential borrower to repay hi
 
 The project is done in VS code with Jupyter Notebook extension.
 
-Attached there is the .csv file used for the analysis
+In this repository you can find the .csv file to perform this analysis
