@@ -1,19 +1,16 @@
 # Loan-Default-Risk-Analysis
 A quick analysis of a debtor's creditworthiness
 
+![image](https://user-images.githubusercontent.com/118930159/208307702-86c897ab-9add-4234-8f1b-ada074a1c1e7.png)
 
-![image](https://user-images.githubusercontent.com/118930159/208306883-131d0e10-003f-4402-9a05-df046d2de885.png)
 
 
 Description of the project:
 
-Our project involves preparing a report for the loan division of a bank. We will need to find out if a client's
-marital status, number of children etc have an impact on a loan default. 
-The bank already has some data on the creditworthiness of customers.
-Our report will be considered for creating a credit score for a customer potential. 
-A credit score is used to assess the ability of a potential borrower to repay his loan.
-
-
+This project aim to prepare a report for the loan division of a bank. The need is to find out if a client's
+marital status, age, number of children, education etc have an impact on a loan default. 
+The bank already has some data on the creditworthiness of customers (see the .csv file in the Repo). 
+This will be considered for creating a credit score for actual and future potential customers. 
 
 The project is done in VS code with Jupyter Notebook extension.
 
