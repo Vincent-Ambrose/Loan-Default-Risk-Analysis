@@ -19,3 +19,19 @@ In this repository you can find the .csv file to perform this analysis
 
 To run this project, please download the entire Repo. 
 Click "<> Code" and "Download ZIP"
+
+____________________________
+
+* Intro
+* Stage 1. Data description
+    * 1.1 Data collection
+    * 1.2 Data exploration
+* Stage 2. Data preprocessing
+    * 2.1 Data preparation
+    * 2.2 Data_classification
+* Stage 3. Hypothesis testing
+    * 3.1 Data correlation
+    * 3.2 Credit score creation
+* General conclusion
+
+____________________
