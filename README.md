@@ -15,3 +15,7 @@ This was considered for creating a credit score for actual and future potential 
 The project is done in VS code with Jupyter Notebook extension.
 
 In this repository you can find the .csv file to perform this analysis
+
+
+To run this project, please download the entire Repo. 
+Click "<> Code" and "Download ZIP"
